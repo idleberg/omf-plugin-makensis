@@ -2,7 +2,7 @@
 
 # makensis
 
-A plugin for [Oh My Fish][omf-link], installs completions for [NSIS][nsis]
+A plugin for [Oh My Fish][omf-link], installs completions for [NSIS][nsis-link]
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v2.2.0-007EC7.svg?style=flat-square)](https://fishshell.com)
